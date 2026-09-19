@@ -6,6 +6,20 @@
 
 ---
 
+## Featured work
+
+Public snapshots of production systems I designed and shipped:
+
+- **[community-platform](https://github.com/ravirajsingh-dev/community-platform)** — Community product for **60K+ users** on a binary-tree data model, with hierarchy-aware queries and a dynamic admin panel.
+- **[mlm-platform](https://github.com/ravirajsingh-dev/mlm-platform)** — Multi-level distribution for **100K+ users**: registration, tree traversal, commissions, and Redis/BullMQ workers.
+- **[commerce-payments-platform](https://github.com/ravirajsingh-dev/commerce-payments-platform)** — End-to-end commerce: catalog, checkout, orders, and payment webhook pipelines.
+- **[print-commerce-platform](https://github.com/ravirajsingh-dev/print-commerce-platform)** — Print/flex commerce: catalogs, wallets, invoices, and order operations.
+- **[community-dmit-platform](https://github.com/ravirajsingh-dev/community-dmit-platform)** — Community + DMIT: fingerprint analysis, counselling appointments, and member hierarchy.
+- **[cricket-sports-management](https://github.com/ravirajsingh-dev/cricket-sports-management)** — Sports operations: player registration, trials, scorecards, and role-based admin.
+- **[offline-first-dairy-management](https://github.com/ravirajsingh-dev/offline-first-dairy-management)** — Offline-first dairy ops on React + IndexedDB, including print-ready records with no network.
+
+---
+
 ## Summary
 
 Full-stack engineer with 5+ years building scalable production platforms. I own architecture, API design, database modeling, asynchronous processing, and production operations. Recent work includes systems serving 60K–100K users, cutting high-latency APIs from ~1 minute to 100ms–2s, and leading framework migrations under tight timelines.
